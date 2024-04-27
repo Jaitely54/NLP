@@ -1,4 +1,4 @@
-## **Natural Language Processing (NLP)**
+## **Natural Language Processing (NLP)** *[Ongoing]*
 
 # ***What is NLP ?***
 Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and manipulate human language. NLP allows computers to communicate with people using everyday language and perform tasks like translation, spell check, or even chatting with users.
